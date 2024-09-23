@@ -5,6 +5,7 @@ class User {
 
 	public static void UserMainMenu() {
 		Console.WriteLine();
+		Console.WriteLine();
 		Console.WriteLine("What would you like to do?");
 		Console.WriteLine("Search the Library");
 		Console.WriteLine("View checked out books");
